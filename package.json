@@ -1,0 +1,10 @@
+{
+  "name": "@ecosia/css-property-sort-order-smacss",
+  "version": "1.0.0",
+  "description": "CSS Property Sort Order based on the SMACSS methodology",
+  "type": "module",
+  "main": "index.js",
+  "repository": "git@github.com:ecosia/css-property-sort-order-smacss.git",
+  "author": "Ecosia GmbH <opensource@ecosia.org>",
+  "license": "SEE LICENSE IN 'LICENSE'"
+}
