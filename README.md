@@ -2,11 +2,14 @@
 
 CSS Property Sort Order based on the [SMACSS](https://smacss.com/book/formatting#grouping) methodology.
 
-## Other packages
+## Related Packages
 
-- [css-property-sort-order-smacss](https://github.com/cahamilton/css-property-sort-order-smacss/)
+- [css-property-sort-order-smacss](https://github.com/cahamilton/css-property-sort-order-smacss/) - Original implementation
 
-## See also
+## Contributing
 
-- [CONTRIBUTING](./CONTRIBUTING)
-- [LICENCE](./LICENSE)
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
+
+## License
+
+See [LICENSE.md](./LICENSE.md) for license information.
