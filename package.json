@@ -4,7 +4,31 @@
   "description": "CSS Property Sort Order based on the SMACSS methodology",
   "type": "module",
   "main": "index.js",
-  "repository": "git@github.com:ecosia/css-property-sort-order-smacss.git",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "smacss",
+    "property-order",
+    "sort-order",
+    "styling",
+    "lint",
+    "stylelint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecosia/css-property-sort-order-smacss.git"
+  },
+  "homepage": "https://github.com/ecosia/css-property-sort-order-smacss#readme",
+  "bugs": {
+    "url": "https://github.com/ecosia/css-property-sort-order-smacss/issues"
+  },
   "author": "Ecosia GmbH <opensource@ecosia.org>",
-  "license": "SEE LICENSE IN 'LICENSE'"
+  "license": "SEE LICENSE IN 'LICENSE.md'"
 }
